@@ -143,3 +143,63 @@ Identify genes that exhibit differential responses to smoking based on gender by
 ```plaintext
 Significant Genes (500):
 ['GeneA', 'GeneB', 'GeneC', ..., 'GeneZ']
+
+
+
+---
+
+## 🖼️ **Additional Visuals**
+
+### 📈 **Gene Expression Trends**
+
+![Gene Expression Trends](https://via.placeholder.com/800x400.png?text=Gene+Expression+Trends)
+
+### 🔍 **Gene Intersection Overview**
+
+![Gene Intersection](https://via.placeholder.com/800x400.png?text=Gene+Intersection)
+
+---
+
+## 🎯 **Technologies Used**
+
+![Python](https://img.shields.io/badge/Python-3.8-blue) ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-brightgreen) ![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.1-blueviolet) ![Statsmodels](https://img.shields.io/badge/Statsmodels-0.12.2-ff69b4)
+
+---
+
+## 🤝 **Contributing**
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 🚀 **Project Status**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/Data-Analytics-Assignment-3?style=social) ![GitHub forks](https://img.shields.io/github/forks/yourusername/Data-Analytics-Assignment-3?style=social) ![GitHub issues](https://img.shields.io/github/issues/yourusername/Data-Analytics-Assignment-3) ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/Data-Analytics-Assignment-3)
+
+---
+
+## 📈 **Progress Tracker**
+
+| Task                                 | Status                                                     |
+|--------------------------------------|------------------------------------------------------------|
+| Two-way ANOVA Analysis               | ![Complete](https://img.shields.io/badge/-Completed-brightgreen) |
+| P-Value Histogram                    | ![Complete](https://img.shields.io/badge/-Completed-brightgreen) |
+| Multiple Testing Correction (FDR)    | ![Complete](https://img.shields.io/badge/-Completed-brightgreen) |
+| Gene Shortlisting                     | ![Complete](https://img.shields.io/badge/-Completed-brightgreen) |
+| Intersection with Gene Lists         | ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow) |
+| Up/Down Regulation Analysis          | ![Pending](https://img.shields.io/badge/-Pending-red)      |
+
+---
+
+## 📝 **Summary**
+
+This `README.md` serves as a comprehensive guide to your **Data Analytics Assignment-3**, detailing the problem statement, methodology, results, and instructions on how to run the analysis. Enhanced with GitHub-friendly icons and interactive elements, it ensures clarity and engagement for anyone viewing your repository.
+
+Feel free to customize the placeholders (like images, links, and usernames) to better fit your project's specifics. If you need further assistance or additional features, don't hesitate to ask!
+
