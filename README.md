@@ -1,6 +1,6 @@
 # 📊 **Data Analytics Assignment-3**
 
-**Aditi Pandey - MTech CSA (SRN-23110)**  
+**Ankit Sharma - MTech CSA (SRN-23110)**  
 **June 5, 2022**
 
 ![Header Image](https://via.placeholder.com/1200x300.png?text=Data+Analytics+Assignment-3)
@@ -23,9 +23,10 @@
   - [3. Intersection with Gene Lists](#3-intersection-with-gene-lists)
 - [📁 Project Structure](#-project-structure)
 - [🔧 How to Run](#-how-to-run)
-- [👩‍💻 Author](#-author)
+- [👨‍💻 Author](#-author)
 - [📜 License](#-license)
 - [📞 Contact](#-contact)
+- [📝 Summary](#-summary)
 
 ---
 
@@ -108,7 +109,7 @@ Identify genes that exhibit differential responses to smoking based on gender by
 - **Solution:**  
   - Apply the **Benjamini-Hochberg False Discovery Rate (FDR)** correction.
   - Control the expected proportion of false discoveries among the rejected hypotheses.
-  
+
 ### 4. Gene Shortlisting and Intersection
 
 - **Shortlisting:**  
