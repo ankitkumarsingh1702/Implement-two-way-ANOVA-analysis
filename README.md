@@ -1,7 +1,4 @@
-# 📊 **Data Analytics Assignment-3**
 
-**Ankit Sharma - MTech CSA (SRN-23110)**  
-**June 5, 2022**
 
 ![Header Image](https://via.placeholder.com/1200x300.png?text=Data+Analytics+Assignment-3)
 
